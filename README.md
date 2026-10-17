@@ -1,4 +1,4 @@
-# Hi there, I'm Naing Htun Lin 👋
+# Hello Everyone, I'm Naing Htun Lin 👋
 ### 🤖 AI / Computer Vision Engineer & Software Developer
 
 An experienced developer specializing in building end-to-end Computer Vision pipelines—from raw data collection to AI model training and real-time desktop application integration.
