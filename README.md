@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there, I'm Naing Htun Lin 👋
+### 🤖 AI / Computer Vision Engineer & Software Developer
 
-<!--
-**nainghtunlin1994/nainghtunlin1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An experienced developer specializing in building end-to-end Computer Vision pipelines—from raw data collection to AI model training and real-time desktop application integration.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me & Core Capabilities
+
+- 👁️ **Computer Vision & AI Model Development:**
+  - **End-to-End Pipeline:** Data Collection → Preprocessing & Augmentation → Detection & Recognition Model Training → Deployment.
+  - **Core Vision Tasks:** Expertise in Object Detection (YOLO), Optical Character Recognition (OCR), Image Segmentation, and Geometric Transformations (e.g., Warp Transform).
+  - **Real-World AI Systems Built:**
+    - 🚘 **ALPRS** (Automatic License Plate Recognition System)
+    - 🪖 **Helmet Detection System** (Real-time monitoring)
+    - 👤 **Face Detection & Recognition System**
+
+- 🖥️ **Desktop & GUI Development:**
+  - Experienced in wrapping trained AI models into intuitive, real-time GUI applications using **Tkinter** and **PySide6 (Qt for Python)**.
+
+- 🌐 **Software Engineering & Database Management:**
+  - Solid understanding of Frontend and Backend architecture concepts to seamlessly integrate AI modules.
+  - Database management experience with both SQL (**PostgreSQL**) and NoSQL (**MongoDB**).
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, C++,C#, SQL, JavaScript |
+| **AI / Computer Vision** | PyTorch, OpenCV, YOLO, OCR, Image Segmentation, Warp Transform |
+| **GUI Frameworks** | PySide6, Tkinter |
+| **Databases** | PostgreSQL, MongoDB |
+| **Developer Tools** | Git, GitHub, VS Code, Linux, Anaconda |
+
+---
+
+## 📬 Connect with Me
+
+- 💼 **LinkedIn:** [Naing Htun Lin](https://www.linkedin.com/in/naing-htun-lin-26037a3b2)
+- ✉️ **Email:** naing260004257@gmail.com
+
+---
+
+### 📊 GitHub Stats
+![Naing Htun Lin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nainghtunlin1994&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nainghtunlin1994&layout=compact&theme=radial)
